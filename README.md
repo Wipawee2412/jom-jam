@@ -4,7 +4,7 @@ jom-jam
 ## 1. หน้า login
 ### - มีการ login มีการ login เข้าสู่ระบบด้วยรหัสนิสิต 60160351  ทั้ง username และ password  
 ![alt text]((https://user-images.githubusercontent.com/61577076/77156506-123ebf80-6ad2-11ea-9103-40a62e87a16a.png)
-)
+
 
 ## 2. หน้า Menu
 ### - จะมีการแสดงหน้า Menu  คือ Ancient remains และ Nature 
