@@ -13,7 +13,6 @@ jom-jam
 ### - จะมีการแสดงรายละเอียดแอพและรูปภาพ 
 ![alt text](https://user-images.githubusercontent.com/61577076/77154168-c38f2680-6acd-11ea-9564-6e0bab7780b6.png)
 
-
 ## 4. หน้าแสดงข้อมูล Ancient remains 2 ที่ใหญ่ขึ้น
 ### - จะมีการแสดงข้อมูลและรายละเอียดของรูปภาพ 
 ![alt text](https://user-images.githubusercontent.com/61577076/77155054-8461d500-6acf-11ea-932d-af162308a641.png)
@@ -32,4 +31,4 @@ jom-jam
 
 ## 8. หน้าแสดงข้อมูล Chart ของหน้า Nature
 ### - จะมีการแสดงข้อมูลในรูปแบบ Chart ต่างๆ
-![alt text](https://user-images.githubusercontent.com/48548611/77112213-31e6d100-6a5b-11ea-876c-cb7401bb5a8f.png)
+![alt text](https://user-images.githubusercontent.com/61577076/77156744-92fdbb80-6ad2-11ea-9266-e0f36e25123f.png)
