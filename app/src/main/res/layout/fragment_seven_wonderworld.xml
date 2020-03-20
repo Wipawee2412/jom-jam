@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".seven_wonderworld"
+    android:background="@drawable/pic3">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:background="#80EDD9EE"
+        android:layout_gravity="center">
+
+    <TextView
+        android:layout_width="410dp"
+        android:layout_height="250dp"
+        android:layout_marginTop="20dp"
+        android:fontFamily="@font/debby"
+        android:gravity="center"
+        android:text="Seven Wonder Of World"
+        android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+        android:textColor="#171718"
+        android:textSize="80dp"
+        android:textStyle="bold|italic" />
+
+    <TextView
+        android:layout_width="420dp"
+        android:layout_height="85dp"
+        android:layout_marginTop="20dp"
+        android:fontFamily="@font/debby"
+        android:gravity="center"
+        android:text="Menu in Seven wonder world"
+        android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+        android:textColor="#171718"
+        android:textSize="45dp"
+        android:textStyle="bold|italic" />
+
+    <Button
+        android:id="@+id/button_con1"
+        android:layout_width="288dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="Ancient remains"
+        android:fontFamily="@font/debby"
+        android:layout_marginTop="50dp"
+        android:textSize="30dp"
+        android:background="#CE5E5E"
+        />
+
+        <Button
+            android:id="@+id/button_con2"
+            android:layout_width="288dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="Nature"
+            android:fontFamily="@font/debby"
+            android:layout_marginTop="20dp"
+            android:textSize="30dp"
+            android:background="#CE5E5E"
+            />
+
+    </LinearLayout>
+
+</FrameLayout>

@@ -1,0 +1,86 @@
+{
+  "continent": [
+    {
+      "firstname": "Great Wall Of China",
+      "image": "https://7thingspacial.files.wordpress.com/2014/02/kinai_nagyfal_0.jpg",
+      "position": "The Great Wall of China is an ancient wall in China. The wall is made of cement, rocks, bricks, and powdered dirt. It was built to protect the north of the empire of China from enemy attacks. It is the longest structure humans have ever built. It is about 21,196 kilometres (13,171 miles) long, 9.1 metres (30 feet) wide and 15 metres (50 feet) high. The earlier sections on the wall are made of compacted dirt and stone. Later in the Ming Dynasty they used bricks. There are 7,000 watch towers, block houses for soldiers and beacons to send smoke signals. "
+
+    },
+    {
+      "firstname": "Petra",
+      "image": "https://media.tacdn.com/media/attractions-splice-spp-674x446/06/6f/76/28.jpg",
+      "position": "Inhabited since prehistoric times, this Nabataean caravan-city, situated between the Red Sea and the Dead Sea, was an important crossroads between Arabia, Egypt and Syria-Phoenicia. Petra is half-built, half-carved into the rock, and is surrounded by mountains riddled with passages and gorges. It is one of the world's most famous archaeological sites, where ancient Eastern traditions blend with Hellenistic architecture."
+
+    },
+    {
+      "firstname": "Taj Mahal",
+      "image": "https://thumbs-prod.si-cdn.com/rtkp3HcECC3xlPiOGvSnR1M5Rag=/fit-in/1600x0/filters:focal(1471x1061:1472x1062)/https://public-media.si-cdn.com/filer/b6/30/b630b48b-7344-4661-9264-186b70531bdc/istock-478831658.jpg",
+      "position": "Taj Mahal, also spelled Tadj Mahall, mausoleum complex in Agra, western Uttar Pradesh state, northern India. It is situated in the eastern part of the city on the southern (right) bank of the Yamuna (Jumna) River. Agra Fort (Red Fort), also on the right bank of the Yamuna, is about 1 mile (1.6 km) west of the Taj Mahal."
+    },
+
+    {
+      "firstname": "Machu Picchu",
+      "image": "https://www.mountainvinicunca.com/wp-content/uploads/2019/03/machupicchu.jpg",
+      "position": "Machu Picchu is tangible evidence of the urban Inca Empire at the peak of its power and achievement—a citadel of cut stone fit together without mortar so tightly that its cracks still can’t be penetrated by a knife blade. The complex of palaces and plazas, temples and homes may have been built as a ceremonial site, a military stronghold, or a retreat for ruling elites—its dramatic location is certainly well suited for any of those purposes. The ruins lie on a high ridge, surrounded on three sides by the windy, turbulent Urubamba River some 2,000 feet (610 meters) below."
+
+    },
+    {
+      "firstname": "Christ The Redeemer",
+      "image": "https://i.pinimg.com/originals/6f/bc/b6/6fbcb6c3b964126a9cb11356df3695e3.jpg",
+      "position": "Christ the Redeemer is a statue in Rio de Janeiro, Brazil that was built as a symbol of Brazilian Christianity. In 1850, the idea of building a religious monument was first suggested by a Catholic Priest."
+
+    },
+    {
+      "firstname": "Chichen Itza",
+      "image": "https://lh3.googleusercontent.com/proxy/paffzMgFeckJ2UfOvAXoTlA2q1YgOeeXtmqPBMXkTt76ERTlwpJK4QkL4auJI8MnKa9pNs0kF5_pPyV3YmZPg54UgP8B0Cw4hfXRDP5JxZrOQDgOidjwr8lBrie-iyoZbIDzUncf4vbDC1g",
+      "position": "Chichen Itza was a large pre-Columbian city built by the Maya people of the Terminal Classic period. The archaeological site is located in Tinúm Municipality, Yucatán State, Mexico."
+
+    },
+    {
+      "firstname": "Colosseum",
+      "image": "https://www.planetware.com/wpimages/2019/05/italy-rome-colosseum-visiting-highlights-tips-tours.jpg",
+      "position": "Colosseum, also called Flavian Amphitheatre, giant amphitheatre built in Rome under the Flavian emperors. Construction of the Colosseum was begun sometime between 70 and 72 ce during the reign of Vespasian. It is located just east of the Palatine Hill, on the grounds of what was Nero’s Golden House. The artificial lake that was the centrepiece of that palace complex was drained, and the Colosseum was sited there, a decision that was as much symbolic as it was practical. Vespasian, whose path to the throne had relatively humble beginnings, chose to replace the tyrannical emperor’s private lake with a public amphitheatre that could host tens of thousands of Romans."
+
+    }
+    ],
+  "nature": [
+    {
+      "firstname": "Amazon",
+      "image": "https://images.squarespace-cdn.com/content/v1/5b44da7daa49a1d4742ecf0f/1557466939362-609CZQR127EZ1R9O6G1V/ke17ZwdGBToddI8pDm48kCLkLTIjawEgL5PyfsGoI6UUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKcARNvKgJj5NVORNMIjF7yZYAGRTMUQbxRliQvPapH2yXclnkDPyIZ-7kgucKf-A6q/manu-national-park-amazon-peru.adapt.1900.1.jpg",
+      "position": "Amazon Rainforest, large tropical rainforest occupying the drainage basin of the Amazon River and its tributaries in northern South America and covering an area of 2,300,000 square miles (6,000,000 square km). Comprising about 40 percent of Brazil’s total area, it is bounded by the Guiana Highlands to the north, the Andes Mountains to the west, the Brazilian central plateau to the south, and the Atlantic Ocean to the east."
+
+    },
+    {
+      "firstname": "The Grand Canyon",
+      "image": "https://www.instyletravels.com/uploads/4096/images/grand-canyon-11.jpg",
+      "position": "Situated in Arizona in the USA, the 277-mile long Grand Canyon is truly awe-inspiring. The canyon, which measures up to a mile deep and some 18 miles wide at its broadest, was formed over time by the unstoppable course of the Colorado River. Scientists estimate that the river first carved out its path more than 17 million years ago. In recent years, increased safety measures have prevented visitors from approaching the edge of the canyon. Still, the Grand Canyon site continues to be a popular tourist destination. A distant glimpse of this powerful and majestic canyon is enough to give memories of a lifetime."
+
+    },
+    {
+      "firstname": "Parícutin",
+      "image": "https://i.pinimg.com/originals/31/8d/5d/318d5d0fa53cb3e2eb583baaaee245a1.jpg",
+      "position": "One of the lesser-known entries on this list, Parícutin is just as impressive as many more well-known landmarks. It is an example of a near-perfect cinder cone volcano located in Michoacán, Mexico. One thing sets Parícutin apart from the many others of its kind around the world. Modern scientists were able to observe and document every stage of its lifespan – from creation to extinction – as it happened. Throughout the 1940s and 1950s, visiting experts and residents of the region were able to witness the volcano growing from a fissure in a cornfield to a mountainous height of 1,391 ft. After erupting for 19 years, the volcano went quiet in 1952. It is not expected to erupt again. "
+    },
+
+    {
+      "firstname": "Northern Lights",
+      "image": "https://media.tacdn.com/media/attractions-splice-spp-674x446/07/38/cf/3d.jpg",
+      "position": "Seen in both the polar regions of the planet, this dazzling light show is aptly referred to as the Northern (or Southern) Lights. Unlike most of the entries on this list, you can view an aurora from many different locations around the world. The higher the latitude, the more likely you are to see them. The Northern Lights effect is brought on by charged cosmic particles entering and interacting with the Earth's atmosphere. It causes vivid colors to be painted across the night sky.\n\nFor centuries, humans have speculated endlessly about the cause of this night-time display of colors. References to the lights have been found in texts from Ancient Greece, stories from Norse Mythology, and sources from Medieval England. "
+    },
+    {
+      "firstname": "Victoria Falls",
+      "image": "https://img.bangkokbiznews.com/judprakai/thumb/2020/02/08/1460/DESFpbRgJMfiaLcN.jpg",
+      "position": "As the Zambezi River crosses the border between Zambia and Zimbabwe, its waters descend 355 feet to form the astonishing Victoria Falls. The waterfall was named in 1855 by Scottish explorer David Livingstone after Queen Victoria, the then reigning English monarch. The indigenous name Mosi-oa-Tunya or \"The Smoke that Thunders\" is still in use locally. In 2013, the government of Zimbabwe announced plans to officially rename the falls as such. Victoria Falls is not the highest or the broadest waterfall on the planet, but upon considering both attributes, it qualifies as the largest. "
+    },
+    {
+      "firstname": "Great Barrier Reef",
+      "image": "https://sites.google.com/site/28baaaa/_/rsrc/1378544344263/australia/great-barrier-reef/Great-Barrier-Reef-in-Australia.jpg",
+      "position": "The Great Barrier Reef is also a natural wonder of our planet. You need to see it to believe it. It features nearly 3,000 individual reefs and almost 1,000 islands stretching for over 1,400 miles, While the Great Wall of China is often mistakenly described as being visible from space, astronauts and satellites have managed to capture images of the Barrier Reef. \n\nThe reef is a globally recognized landmark of Australia and a point of pride for Australians around the globe. It is made of billions of minuscule organisms called coral polyps. Lots of work is done each year to ensure that the delicate ecosystem of the reef is preserved for future generations. Central to this effort is the Great Barrier Reef Marine Park, a protective designation established in 1975 meant to protect the reef and the species within it. "
+    },
+    {
+      "firstname": "Mount Everest",
+      "image": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/13529/production/_111254197_gettyimages-137373260.jpg",
+      "position": "Mount Everest, Sanskrit and Nepali Sagarmatha, Tibetan Chomolungma, Chinese (Pinyin) Zhumulangma Feng or (Wade-Giles romanization) Chu-mu-lang-ma Feng, also spelled Qomolangma Feng, mountain on the crest of the Great Himalayas of southern Asia that lies on the border between Nepal and the Tibet Autonomous Region of China, at 27°59′ N 86°56′ E. Reaching an elevation of 29,035 feet (8,850 metres), Mount Everest is the highest mountain in the world."
+    }
+  ]
+}
