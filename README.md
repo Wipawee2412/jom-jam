@@ -1,37 +1,35 @@
 # jom-jam
 jom-jam
-# Android Project : Anonymous Chatroom
 
-## Anonymous Chatroom
-ห้องแชทเรียทาม ไม่ระบุตัวตน แต่ต้องยืนยันตัวตนด้วยเฟสบุคก่อนใช้งานนะ ไม่เก็บข้อมูลผู้ใช้(ยกเว้นข้อความ) มีกราฟเส้น(มอคค่า) มีรีไซเคิลวิว มีริสวิวด้วย 
+## 1. หน้า login
+### - มีการ login มีการ login เข้าสู่ระบบด้วยรหัสนิสิต 60160351  ทั้ง username และ password  
+![alt text](https://user-images.githubusercontent.com/61577076/77153731-e0772a00-6acc-11ea-83fa-fe4f198a39cf.png)
 
-### เพิ่มเติม
-ฝากกด follow github/supakjack ด้วยครับ เน้นพวก node.js , vue.js , react , angular (frontent js ทั้งหลาย) เป็นหลักงับ พวก socket.io , Restfulapi หรือ docker ก็มีฝากด้วยงับ 
+## 2. หน้า Menu
+### - จะมีการแสดงหน้า Menu  คือ Ancient remains และ Nature 
+![alt text](https://user-images.githubusercontent.com/61577076/77154028-7f038b00-6acd-11ea-90c7-6a02493125d6.png)
 
-## 1. หน้าแรก
-### - มี 2 เมนู คือ ดำเนินการต่อด้วย facebook เพื่อเข้าสู่ห้องแชท หรือกดดูรายละเอียดใน readme  
-![alt text](https://user-images.githubusercontent.com/48548611/77112034-e46a6400-6a5a-11ea-91db-4f3f01a5c9ba.png)
+## 3. หน้าแสดงข้อมูล Ancient remains 1
+### - จะมีการแสดงรายละเอียดแอพและรูปภาพ 
+![alt text](https://user-images.githubusercontent.com/61577076/77154168-c38f2680-6acd-11ea-9564-6e0bab7780b6.png)
 
-## 2. หน้าห้องแชท
-### - จะแสดงแชททั้งหมด แบบเรียทามได้ สามารถส่งข้ความคุยกันในห้องได้แบบไม่ระุตัวตน สามารถกดล็อคเอาเพื่อกลับไปหน้าหลักได้ 
-![alt text](https://user-images.githubusercontent.com/48548611/77112531-c3564300-6a5b-11ea-99d8-303a064e1a0d.png)
 
-## 3. หน้า Readme (1/2)
-### - จะแสดงรายละเอียดแอพ (อันนี้รีไสเคิลวิว + อแดปเตอร์ json)
-![alt text](https://user-images.githubusercontent.com/48548611/77112122-07951380-6a5b-11ea-9a4a-a9c9cda110d4.png)
+## 4. หน้าแสดงข้อมูล Ancient remains 2 ที่ใหญ่ขึ้น
+### - จะมีการแสดงข้อมูลและรายละเอียดของรูปภาพ 
+![alt text](https://user-images.githubusercontent.com/61577076/77155054-8461d500-6acf-11ea-932d-af162308a641.png)
 
-## 4. หน้า Readme (2/2)
-### - จะแสดงรายละเอียดแอพ (อันนี้รีไสเคิลวิว + อแดปเตอร์ json)
+## 5. หน้าแสดงข้อมูล Chart ของหน้า Ancient remains 
+### -  จะมีการแสดงข้อมูลในรูปแบบ Chart ต่างๆ
 ![alt text](https://user-images.githubusercontent.com/48548611/77112213-31e6d100-6a5b-11ea-876c-cb7401bb5a8f.png)
 
-## 5. หน้าดูรายละเอียดย่อยต่อจาก readme (1/3)
-### - ส่งค่าจากรีไสเคิลเฉยๆ
-![alt text](https://user-images.githubusercontent.com/48548611/77112298-59d63480-6a5b-11ea-8cd8-2a16ced476f1.png)
+## 6.หน้าแสดงข้อมูล Nature 1
+### - จะมีการแสดงรายละเอียดแอพและรูปภาพ
+![alt text](https://user-images.githubusercontent.com/61577076/77155514-38fbf680-6ad0-11ea-8d25-d001933966f2.png)
 
-## 6. หน้าดูรายละเอียดย่อยต่อจาก readme (2/3)
-### - ส่งค่าจากรีไสเคิลเฉยๆ
-![alt text](https://user-images.githubusercontent.com/48548611/77112372-75d9d600-6a5b-11ea-99ed-0dc670dded23.png)
+## 7.หน้าแสดงข้อมูล Nature 2 ที่ใหญ่ขึ้น
+### -  จะมีการแสดงรายละเอียดแอพและรูปภาพ
+![alt text](https://user-images.githubusercontent.com/61577076/77155666-72346680-6ad0-11ea-8297-f01bd66988a3.png)
 
-## 7. หน้าดูรายละเอียดย่อยต่อจาก readme (3/3)
-### - ส่งค่าจากรีไสเคิลเฉยๆ
-![alt text](https://user-images.githubusercontent.com/48548611/77112492-af124600-6a5b-11ea-9380-bf44b0989e11.png)
+## 8. หน้าแสดงข้อมูล Chart ของหน้า Nature
+### - จะมีการแสดงข้อมูลในรูปแบบ Chart ต่างๆ
+![alt text](https://user-images.githubusercontent.com/48548611/77112213-31e6d100-6a5b-11ea-876c-cb7401bb5a8f.png)
