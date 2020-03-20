@@ -8,7 +8,7 @@ jom-jam
 
 ## 2. หน้า Menu
 ### - จะมีการแสดงหน้า Menu  คือ Ancient remains และ Nature 
-![alt text](https://user-images.githubusercontent.com/61577076/77154028-7f038b00-6acd-11ea-90c7-6a02493125d6.png)
+![alt text](https://user-images.githubusercontent.com/61577076/77156506-123ebf80-6ad2-11ea-9103-40a62e87a16a.png)
 
 ## 3. หน้าแสดงข้อมูล Ancient remains 1
 ### - จะมีการแสดงรายละเอียดแอพและรูปภาพ 
