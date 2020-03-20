@@ -20,7 +20,7 @@ jom-jam
 
 ## 5. หน้าแสดงข้อมูล Chart ของหน้า Ancient remains 
 ### -  จะมีการแสดงข้อมูลในรูปแบบ Chart ต่างๆ
-![alt text](https://user-images.githubusercontent.com/48548611/77112213-31e6d100-6a5b-11ea-876c-cb7401bb5a8f.png)
+![alt text](https://user-images.githubusercontent.com/61577076/77156680-6ea1df00-6ad2-11ea-830f-f729f9358d0b.png)
 
 ## 6.หน้าแสดงข้อมูล Nature 1
 ### - จะมีการแสดงรายละเอียดแอพและรูปภาพ
